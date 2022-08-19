@@ -1,0 +1,24 @@
+
+body{
+   background-color: #CEE5D0;
+ }
+hr{
+  background-color: #CEE5D0;
+  border-color: #66BFBF;
+  border-width: 5px;
+  border-style: ridge none none;
+  height: 0px;
+  width: 65%;
+}
+h1{
+  color: #0F3D3E;
+}
+h1:hover{
+  color: black;
+}
+h3{
+  color: #005555;
+}
+.mega{
+  border-radius: 10%;
+}
